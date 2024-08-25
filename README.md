@@ -69,7 +69,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About the Project
-This is a very simple project I did in 2022 for the Long Island Science Congress competition. It's the code for an experiment of whether convolutional neural networks or recurrent neural networks are more accurate for classification of RNA of different types of coronaviruses. Specifically for the recurrent neural network, an LSTM was used.
+This is a very simple project I did in 2023 for the Long Island Science Congress competition. It's the code for an experiment of whether convolutional neural networks or recurrent neural networks are more accurate for classification of RNA of different types of coronaviruses. Specifically for the recurrent neural network, an LSTM was used.
 
 The data for this project was downloaded from [https://www.ncbi.nlm.nih.gov/nucleotide/](https://www.ncbi.nlm.nih.gov/nucleotide/), and it's all RNA sequences of human-transmitted coronaviruses.
 
