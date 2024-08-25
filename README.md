@@ -29,7 +29,7 @@
 <br />
 <div align="center">
 
-<h3 align="center">Tensorflow Coronaviruses</h3>
+<h3 align="center">TensorFlow Coronaviruses</h3>
 
   <p align="center">
     A very simple project I did in 2023 that tests whether a convolutional neural network or recurrent neural network is better for classification of coronavirus RNA.
