@@ -32,7 +32,7 @@
 <h3 align="center">Tensorflow Coronaviruses</h3>
 
   <p align="center">
-    A very simple project I did in 2022 that tests whether a convolutional neural network or recurrent neural network is better for classification of coronavirus RNA.
+    A very simple project I did in 2023 that tests whether a convolutional neural network or recurrent neural network is better for classification of coronavirus RNA.
     <br />
     <br />
     <a href="https://github.com/josephHelfenbein/tf-coronaviruses/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
