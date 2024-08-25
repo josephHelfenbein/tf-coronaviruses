@@ -75,7 +75,7 @@ The data for this project was downloaded from [https://www.ncbi.nlm.nih.gov/nucl
 
 <br />
 The training is stopped after the first signs of overfitting, and can be seen here:
-
+<br />
 <br />
 Convolutional Neural Network Results:
 
