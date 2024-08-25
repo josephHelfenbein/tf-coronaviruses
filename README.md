@@ -22,7 +22,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- PROJECT LOGO -->
@@ -205,8 +205,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [license-shield]: https://img.shields.io/github/license/josephHelfenbein/tf-coronaviruses.svg?style=for-the-badge
 [license-url]: https://github.com/josephHelfenbein/tf-coronaviruses/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url-joseph]: https://linkedin.com/in/joseph-j-helfenbein
-[linkedin-url-yash]: https://linkedin.com/in/yash-jani-8245bb26a/
+[linkedin-url]: https://linkedin.com/in/joseph-j-helfenbein
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
